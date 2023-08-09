@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412132924783",
+    "project_id": "proyectocamion-3c26a",
+    "storage_bucket": "proyectocamion-3c26a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412132924783:android:b300ca021852daf5779c9a",
+        "android_client_info": {
+          "package_name": "com.example.proyectocamion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412132924783-jb6olpl6aptldtf373ajsfuncpg3h5a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG0Q1mwRrSBuBfE-tCgBZ7Fh0oqClXEjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412132924783-jb6olpl6aptldtf373ajsfuncpg3h5a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
